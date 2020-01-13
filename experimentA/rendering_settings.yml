@@ -1,0 +1,24 @@
+---
+channels:
+    1:
+        active: true
+        color: FF0000
+        end: 255
+        label: red
+        start: 0
+    2:
+        active: true
+        color: 00FF00
+        end: 255
+        label: green
+        start: 0
+    3:
+        active: true
+        color: 0000FF
+        end: 255
+        label: blue
+        start: 0
+greyscale: false
+t: 1
+version: 2
+z: 1
