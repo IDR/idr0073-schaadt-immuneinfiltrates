@@ -1,193 +1,193 @@
-Dataset:name:Breast	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer10.ome.tiff
-Dataset:name:Breast	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer11.ome.tiff
-Dataset:name:Breast	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer12.ome.tiff
-Dataset:name:Breast	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer13.ome.tiff
-Dataset:name:Breast	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer14.ome.tiff
-Dataset:name:Breast	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer15.ome.tiff
-Dataset:name:Breast	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer16.ome.tiff
-Dataset:name:Breast	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer17.ome.tiff
-Dataset:name:Breast	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer18.ome.tiff
-Dataset:name:Breast	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer19.ome.tiff
-Dataset:name:Breast	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer1.ome.tiff
-Dataset:name:Breast	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer20.ome.tiff
-Dataset:name:Breast	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer21.ome.tiff
-Dataset:name:Breast	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer22.ome.tiff
-Dataset:name:Breast	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer23.ome.tiff
-Dataset:name:Breast	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer2.ome.tiff
-Dataset:name:Breast	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer3.ome.tiff
-Dataset:name:Breast	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20200122-ftp_ometiff/breastCancer4.ome.tiff
-Dataset:name:Breast	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20200122-ftp_ometiff/breastCancer5.ome.tiff
-Dataset:name:Breast	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer6.ome.tiff
-Dataset:name:Breast	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer7.ome.tiff
-Dataset:name:Breast	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer8.ome.tiff
-Dataset:name:Breast	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer9.ome.tiff
-Dataset:name:Lung	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/lung10.ome.tiff
-Dataset:name:Lung	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/lung1.ome.tiff
-Dataset:name:Lung	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/lung2.ome.tiff
-Dataset:name:Lung	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/lung3.ome.tiff
-Dataset:name:Lung	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/lung4.ome.tiff
-Dataset:name:Lung	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/lung5.ome.tiff
-Dataset:name:Lung	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/lung6.ome.tiff
-Dataset:name:Lung	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/lung7.ome.tiff
-Dataset:name:Lung	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/lung8.ome.tiff
-Dataset:name:Lung	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/lung9.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_03_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_04_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_04_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_05_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_05_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_08_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_08_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_08_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_08_4.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_08_5.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_09_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_09_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_09_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_10_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_10_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_10_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_11_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_11_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_15_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_15_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_17_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_17_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_17_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_17_4.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_18_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_18_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_18_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_18_4.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_19_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_19_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_19_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_19_4.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_20_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_20_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_20_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_20_4.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_20_5.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_21_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_21_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_21_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_22_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_22_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_22_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_23_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_23_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_24_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_24_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_25_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_25_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_26_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_26_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_26_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_26_4.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_28_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_28_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_29_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_30_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_30_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_30_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_30_4.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_33_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_34_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_34_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_35_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_35_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_35_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_35_4.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_35_5.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_35_6.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_38_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_38_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_38_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_38_4.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_39_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_41_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_41_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_41_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_42_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_42_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_42_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_42_4.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_42_5.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_42_6.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_43_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_43_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_43_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_43_4.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_46_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_46_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_46_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_46_4.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_46_5.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_47_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_47_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_47_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_48_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_48_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_48_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_48_4.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_48_5.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_53_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_53_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_53_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_53_4.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_55_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_55_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_55_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_55_4.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_56_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_57_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_57_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_59_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_59_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_59_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_59_4.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_60_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_60_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_60_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_61_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_61_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_63_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_64_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_64_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_64_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_65_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_65_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_67_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_67_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_69_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_69_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_69_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_70_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_70_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_70_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_70_4.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_70_5.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_70_6.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_70_7.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_75_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_75_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_75_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_76_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_77_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_77_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_77_3.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_77_4.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_77_5.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_77_6.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_77_7.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_77_8.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_79_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_79_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_80_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_80_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_81_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_81_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_83_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_83_2.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_85_1.ome.tiff
-Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_85_2.ome.tiff
+Dataset:name:Breast Cancer	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer10.ome.tiff	breastCancer10
+Dataset:name:Breast Cancer	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer11.ome.tiff	breastCancer11
+Dataset:name:Breast Cancer	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer12.ome.tiff	breastCancer12
+Dataset:name:Breast Cancer	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer13.ome.tiff	breastCancer13
+Dataset:name:Breast Cancer	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer14.ome.tiff	breastCancer14
+Dataset:name:Breast Cancer	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer15.ome.tiff	breastCancer15
+Dataset:name:Breast Cancer	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer16.ome.tiff	breastCancer16
+Dataset:name:Breast Cancer	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer17.ome.tiff	breastCancer17
+Dataset:name:Breast Cancer	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer18.ome.tiff	breastCancer18
+Dataset:name:Breast Cancer	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer19.ome.tiff	breastCancer19
+Dataset:name:Breast Cancer	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer1.ome.tiff	breastCancer01
+Dataset:name:Breast Cancer	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer20.ome.tiff	breastCancer20
+Dataset:name:Breast Cancer	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer21.ome.tiff	breastCancer21
+Dataset:name:Breast Cancer	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer22.ome.tiff	breastCancer22
+Dataset:name:Breast Cancer	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer23.ome.tiff	breastCancer23
+Dataset:name:Breast Cancer	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer2.ome.tiff	breastCancer02
+Dataset:name:Breast Cancer	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer3.ome.tiff	breastCancer03
+Dataset:name:Breast Cancer	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20200122-ftp_ometiff/breastCancer4.ome.tiff	breastCancer04
+Dataset:name:Breast Cancer	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20200122-ftp_ometiff/breastCancer5.ome.tiff	breastCancer05
+Dataset:name:Breast Cancer	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer6.ome.tiff	breastCancer06
+Dataset:name:Breast Cancer	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer7.ome.tiff	breastCancer07
+Dataset:name:Breast Cancer	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer8.ome.tiff	breastCancer08
+Dataset:name:Breast Cancer	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/breastCancer9.ome.tiff	breastCancer09
+Dataset:name:Lung	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/lung10.ome.tiff	lung10
+Dataset:name:Lung	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/lung1.ome.tiff	lung01
+Dataset:name:Lung	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/lung2.ome.tiff	lung02
+Dataset:name:Lung	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/lung3.ome.tiff	lung03
+Dataset:name:Lung	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/lung4.ome.tiff	lung04
+Dataset:name:Lung	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/lung5.ome.tiff	lung05
+Dataset:name:Lung	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/lung6.ome.tiff	lung06
+Dataset:name:Lung	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/lung7.ome.tiff	lung07
+Dataset:name:Lung	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/lung8.ome.tiff	lung08
+Dataset:name:Lung	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191119-ftp_ometiff/lung9.ome.tiff	lung09
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_03_1.ome.tiff	kidney_03_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_04_1.ome.tiff	kidney_04_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_04_2.ome.tiff	kidney_04_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_05_1.ome.tiff	kidney_05_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_05_2.ome.tiff	kidney_05_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_08_1.ome.tiff	kidney_08_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_08_2.ome.tiff	kidney_08_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_08_3.ome.tiff	kidney_08_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_08_4.ome.tiff	kidney_08_4
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_08_5.ome.tiff	kidney_08_5
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_09_1.ome.tiff	kidney_09_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_09_2.ome.tiff	kidney_09_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_09_3.ome.tiff	kidney_09_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_10_1.ome.tiff	kidney_10_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_10_2.ome.tiff	kidney_10_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_10_3.ome.tiff	kidney_10_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_11_1.ome.tiff	kidney_11_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_11_2.ome.tiff	kidney_11_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_15_1.ome.tiff	kidney_15_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_15_2.ome.tiff	kidney_15_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_17_1.ome.tiff	kidney_17_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_17_2.ome.tiff	kidney_17_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_17_3.ome.tiff	kidney_17_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_17_4.ome.tiff	kidney_17_4
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_18_1.ome.tiff	kidney_18_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_18_2.ome.tiff	kidney_18_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_18_3.ome.tiff	kidney_18_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_18_4.ome.tiff	kidney_18_4
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_19_1.ome.tiff	kidney_19_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_19_2.ome.tiff	kidney_19_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_19_3.ome.tiff	kidney_19_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_19_4.ome.tiff	kidney_19_4
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_20_1.ome.tiff	kidney_20_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_20_2.ome.tiff	kidney_20_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_20_3.ome.tiff	kidney_20_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_20_4.ome.tiff	kidney_20_4
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_20_5.ome.tiff	kidney_20_5
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_21_1.ome.tiff	kidney_21_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_21_2.ome.tiff	kidney_21_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_21_3.ome.tiff	kidney_21_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_22_1.ome.tiff	kidney_22_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_22_2.ome.tiff	kidney_22_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_22_3.ome.tiff	kidney_22_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_23_1.ome.tiff	kidney_23_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_23_2.ome.tiff	kidney_23_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_24_1.ome.tiff	kidney_24_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_24_2.ome.tiff	kidney_24_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_25_1.ome.tiff	kidney_25_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_25_2.ome.tiff	kidney_25_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_26_1.ome.tiff	kidney_26_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_26_2.ome.tiff	kidney_26_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_26_3.ome.tiff	kidney_26_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_26_4.ome.tiff	kidney_26_4
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_28_1.ome.tiff	kidney_28_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_28_2.ome.tiff	kidney_28_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_29_1.ome.tiff	kidney_29_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_30_1.ome.tiff	kidney_30_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_30_2.ome.tiff	kidney_30_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_30_3.ome.tiff	kidney_30_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_30_4.ome.tiff	kidney_30_4
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_33_1.ome.tiff	kidney_33_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_34_1.ome.tiff	kidney_34_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_34_2.ome.tiff	kidney_34_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_35_1.ome.tiff	kidney_35_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_35_2.ome.tiff	kidney_35_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_35_3.ome.tiff	kidney_35_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_35_4.ome.tiff	kidney_35_4
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_35_5.ome.tiff	kidney_35_5
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_35_6.ome.tiff	kidney_35_6
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_38_1.ome.tiff	kidney_38_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_38_2.ome.tiff	kidney_38_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_38_3.ome.tiff	kidney_38_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_38_4.ome.tiff	kidney_38_4
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_39_1.ome.tiff	kidney_39_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_41_1.ome.tiff	kidney_41_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_41_2.ome.tiff	kidney_41_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_41_3.ome.tiff	kidney_41_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_42_1.ome.tiff	kidney_42_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_42_2.ome.tiff	kidney_42_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_42_3.ome.tiff	kidney_42_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_42_4.ome.tiff	kidney_42_4
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_42_5.ome.tiff	kidney_42_5
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_42_6.ome.tiff	kidney_42_6
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_43_1.ome.tiff	kidney_43_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_43_2.ome.tiff	kidney_43_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_43_3.ome.tiff	kidney_43_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_43_4.ome.tiff	kidney_43_4
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_46_1.ome.tiff	kidney_46_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_46_2.ome.tiff	kidney_46_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_46_3.ome.tiff	kidney_46_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_46_4.ome.tiff	kidney_46_4
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_46_5.ome.tiff	kidney_46_5
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_47_1.ome.tiff	kidney_47_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_47_2.ome.tiff	kidney_47_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_47_3.ome.tiff	kidney_47_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_48_1.ome.tiff	kidney_48_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_48_2.ome.tiff	kidney_48_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_48_3.ome.tiff	kidney_48_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_48_4.ome.tiff	kidney_48_4
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_48_5.ome.tiff	kidney_48_5
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_53_1.ome.tiff	kidney_53_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_53_2.ome.tiff	kidney_53_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_53_3.ome.tiff	kidney_53_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_53_4.ome.tiff	kidney_53_4
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_55_1.ome.tiff	kidney_55_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_55_2.ome.tiff	kidney_55_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_55_3.ome.tiff	kidney_55_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_55_4.ome.tiff	kidney_55_4
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_56_1.ome.tiff	kidney_56_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_57_1.ome.tiff	kidney_57_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_57_2.ome.tiff	kidney_57_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_59_1.ome.tiff	kidney_59_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_59_2.ome.tiff	kidney_59_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_59_3.ome.tiff	kidney_59_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_59_4.ome.tiff	kidney_59_4
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_60_1.ome.tiff	kidney_60_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_60_2.ome.tiff	kidney_60_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_60_3.ome.tiff	kidney_60_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_61_1.ome.tiff	kidney_61_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_61_2.ome.tiff	kidney_61_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_63_1.ome.tiff	kidney_63_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_64_1.ome.tiff	kidney_64_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_64_2.ome.tiff	kidney_64_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_64_3.ome.tiff	kidney_64_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_65_1.ome.tiff	kidney_65_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_65_2.ome.tiff	kidney_65_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_67_1.ome.tiff	kidney_67_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_67_2.ome.tiff	kidney_67_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_69_1.ome.tiff	kidney_69_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_69_2.ome.tiff	kidney_69_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_69_3.ome.tiff	kidney_69_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_70_1.ome.tiff	kidney_70_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_70_2.ome.tiff	kidney_70_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_70_3.ome.tiff	kidney_70_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_70_4.ome.tiff	kidney_70_4
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_70_5.ome.tiff	kidney_70_5
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_70_6.ome.tiff	kidney_70_6
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_70_7.ome.tiff	kidney_70_7
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_75_1.ome.tiff	kidney_75_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_75_2.ome.tiff	kidney_75_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_75_3.ome.tiff	kidney_75_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_76_1.ome.tiff	kidney_76_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_77_1.ome.tiff	kidney_77_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_77_2.ome.tiff	kidney_77_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_77_3.ome.tiff	kidney_77_3
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_77_4.ome.tiff	kidney_77_4
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_77_5.ome.tiff	kidney_77_5
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_77_6.ome.tiff	kidney_77_6
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_77_7.ome.tiff	kidney_77_7
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_77_8.ome.tiff	kidney_77_8
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_79_1.ome.tiff	kidney_79_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_79_2.ome.tiff	kidney_79_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_80_1.ome.tiff	kidney_80_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_80_2.ome.tiff	kidney_80_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_81_1.ome.tiff	kidney_81_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_81_2.ome.tiff	kidney_81_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_83_1.ome.tiff	kidney_83_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_83_2.ome.tiff	kidney_83_2
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_85_1.ome.tiff	kidney_85_1
+Dataset:name:Kidney	/uod/idr/filesets/idr0073-schaadt-immuneinfiltrates/20191210-ftp_ometiff/kidney_85_2.ome.tiff	kidney_85_2
