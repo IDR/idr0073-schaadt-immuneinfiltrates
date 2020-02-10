@@ -102,7 +102,7 @@ columns:
           omitempty: no
         - name: Comment [Gene Identifier 1]
           clientname: Gene Identifier URL
-          clientvalue: "https://www.ncbi.nlm.nih.gov/gene/?term={{ value|urlencode }}"
+          clientvalue: "http://www.ensembl.org/id/{{ value|urlencode }}"
           include: yes
         - name: Comment [Gene Symbol 1]
           clientname: Gene Symbol
@@ -118,7 +118,7 @@ columns:
           omitempty: no
         - name: Comment [Gene Identifier 2]
           clientname: Gene Identifier URL
-          clientvalue: "https://www.ncbi.nlm.nih.gov/gene/?term={{ value|urlencode }}"
+          clientvalue: "http://www.ensembl.org/id/{{ value|urlencode }}"
           include: yes
         - name: Comment [Gene Symbol 2]
           clientname: Gene Symbol
@@ -136,6 +136,6 @@ advanced:
       keys:
         - Antibody Identifier
     - namespace: openmicroscopy.org/mapr/gene
-          keys:
-              - Gene Identifier
-              - Gene Symbol
+      keys:
+        - Gene Identifier
+        - Gene Symbol
