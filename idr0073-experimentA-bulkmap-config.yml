@@ -1,0 +1,141 @@
+---
+name: idr0073-schaadt-immuneinfiltrates/experimentA
+version: 1
+
+defaults:
+  # Should the column be processed when creating bulk-annotations (yes/no)
+  include: no
+  # Columns type of the bulk-annotations column
+  type: string
+
+  # If non-empty a string used to separate multiple fields in a column
+  # White space will be stripped
+  split: ;
+  # Should this column be included in the clients (yes/no)
+  includeclient: yes
+  # Should this column be visible in the clients, if no the column should be
+  # hidden in the client but will still be indexed by the searcher (yes/no)
+  visible: yes
+  # Should empty values be omitted from the client display
+  omitempty: yes
+
+columns:
+
+  - name: Characteristics [Organism Part]
+    clientname: Organism Part
+    include: yes
+
+  - name: Characteristics [Medical Condition]
+    clientname: Medical Condition
+    include: yes
+
+  - name: Characteristics [Diagnosis]
+    clientname: Diagnosis
+    include: yes
+
+  - name: Characteristics [Sex]
+    clientname: Sex
+    include: yes
+
+  - name: Characteristics [Age at Biopsy]
+    clientname: Age
+    include: yes
+
+  - name: Characteristics [Individual]
+    clientname: Individual
+    include: yes
+
+  - name: Comment [IHC Staining]
+    clientname: IHC Staining
+    include: yes
+
+
+  ######################################################################
+  # mapr groups
+  ######################################################################
+
+  - group:
+      namespace: openmicroscopy.org/mapr/organism
+      columns:
+        - name: Characteristics [Organism]
+          clientname: Organism
+          include: yes
+
+  - group:
+      namespace: openmicroscopy.org/mapr/antibody
+      columns:
+        - name: Experimental Condition [Primary Antibody 1]
+          clientname: Antibody
+          include: yes
+          omitempty: no
+        - name: Primary Antibody Identifier 1
+          clientname: Antibody Identifier
+          include: yes
+          omitempty: no
+        - name: Primary Antibody Identifier 1
+          clientname: Antibody Identifier URL
+          clientvalue: http://antibodyregistry.org/{{ value|urlencode }}
+          include: yes
+
+  - group:
+      namespace: openmicroscopy.org/mapr/antibody
+      columns:
+        - name: Experimental Condition [Primary Antibody 2]
+          clientname: Antibody
+          include: yes
+          omitempty: no
+        - name: Primary Antibody Identifier 2
+          clientname: Antibody Identifier
+          include: yes
+          omitempty: no
+        - name: Primary Antibody Identifier 2
+          clientname: Antibody Identifier URL
+          clientvalue: http://antibodyregistry.org/{{ value|urlencode }}
+          include: yes
+
+  - group:
+      namespace: openmicroscopy.org/mapr/gene
+      columns:
+        - name: Comment [Gene Identifier 1]
+          clientname: Gene Identifier
+          include: yes
+          omitempty: no
+        - name: Comment [Gene Identifier 1]
+          clientname: Gene Identifier URL
+          clientvalue: "https://www.ncbi.nlm.nih.gov/gene/?term={{ value|urlencode }}"
+          include: yes
+        - name: Comment [Gene Symbol 1]
+          clientname: Gene Symbol
+          include: yes
+          omitempty: no
+
+  - group:
+      namespace: openmicroscopy.org/mapr/gene
+      columns:
+        - name: Comment [Gene Identifier 2]
+          clientname: Gene Identifier
+          include: yes
+          omitempty: no
+        - name: Comment [Gene Identifier 2]
+          clientname: Gene Identifier URL
+          clientvalue: "https://www.ncbi.nlm.nih.gov/gene/?term={{ value|urlencode }}"
+          include: yes
+        - name: Comment [Gene Symbol 2]
+          clientname: Gene Symbol
+          include: yes
+          omitempty: no
+
+
+advanced:
+  ignore_missing_primary_key: yes
+  primary_group_keys:
+    - namespace: openmicroscopy.org/mapr/organism
+      keys:
+        - Organism
+    - namespace: openmicroscopy.org/mapr/antibody
+      keys:
+        - Antibody Identifier
+    - namespace: openmicroscopy.org/mapr/gene
+          keys:
+              - Gene Identifier
+              - Gene Symbol
