@@ -1,0 +1,103 @@
+# FILL IN AS MUCH INFORMATION AS YOU CAN.  HINTS HAVE BEEN PUT IN SOME FIELDS AFTER THE HASH # SYMBOL. REPLACE THE HINT WITH TEXT WHERE APPROPRIATE.										
+										
+# STUDY DESCRIPTION SECTION	
+# Section with generic information about the study including title, description, publication details (if applicable) and contact details									
+
+										
+Comment[IDR Study Accession]	idr0073									
+Study Title	Graph-based description of tertiary lymphoid organs (TLOs)  at single-cell level	
+Study Type	histology									
+Study Type Term Source REF									
+Study Type Term Accession									
+Study Description	Object-oriented image analysis and graph-based description of the spatial context of B- und T-lymphocytes were performed to reflect the degree of organization in lymphocyte accumulations and their similarity with TLOs.  This study addresses the need to detect and reproducibly classify immune cell infiltrates in histopathological sections. We propose complementing observer-dependent approaches of immune cell evaluation in microscopy images with reproducible measures for spatial composition of lymphocytic infiltrates.  	
+Study Key Words	immune infiltrates	tertiary lymphoid organ	lymphocyte	whole slide scanning	
+Study Organism	Homo sapiens									
+Study Organism Term Source REF	NCBITaxon								
+Study Organism Term Accession	9606									
+Study Experiments Number	1									
+Study External URL	
+Study BioImage Archive Accession									
+Study Public Release Date	2020-03-03									
+										
+# Study Publication										
+Study PubMed ID	 									
+Study Publication Title	Graph-based description of tertiary lymphoid organs at single-cell level	
+Study Author List	Schaadt NS, Schoenmeyer R, Forestier G, Brieu N, Braubach P, Nekolla K, Meyer-Hermann M, Feuerhake F					
+Study PMC ID	 							
+Study DOI	 									
+	
+									
+# Study Contacts										
+Study Person Last Name	Feuerhake									
+Study Person First Name	Friedrich									
+Study Person Email	feuerhake.friedrich@mh-hannover.de						
+Study Person Address	Carl-Neuberg-Str. 1, 30615 Hannover, Germany				
+Study Person ORCID	https://orcid.org/0000-0002-1234-982X 						
+Study Person Roles	submitter									
+		
+								
+# Study License and Data DOI										
+Study License	CC-BY 4.0									
+Study License URL	https://creativecommons.org/licenses/by/4.0/					
+Study Copyright	PLOS Comp Biol									
+Study Data Publisher	University of Dundee								
+Study Data DOI										
+										
+Term Source Name	NCBITaxon	EFO	CMPO	FBbi						
+Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/						
+										
+										
+# EXPERIMENT SECTION										
+# Experiment Section containing all information relative to each experiment in the study including materials used, protocols names and description, phenotype names and description. For multiple experiments this section should be repeated.  Copy and paste the whole section below and fill out for the next experiment										
+										
+Experiment Number	1									
+Comment[IDR Experiment Name]	idr0073-schaadt-immuneinfiltrates/experimentA	
+Experiment Sample Type	tissue								
+Experiment Description	Based on cell coordinates detected in the full image, a Delaunay triangulation and distance criteria were used to build neighborhood graphs. The composition of nodes and edges are used for classification, e.g. using a support vector machine.									
+Experiment Size	2D Whole Slide Images (WSI): 	6000 x 7000 px	Total 0.1 Tb 							
+Experiment Example Images	kidney_60_03.png									
+Experiment Imaging Method	bright-field microscopy 									
+Experiment Imaging Method Term Source REF	Fbbi									
+Experiment Imaging Method Term Accession	FBbi_00000243									
+Experiment Comments	Whole Slide Scan (brightfield)									
+										
+# assay files										
+Experiment Assay File	idr0073-experimentB-assays							
+Experiment Assay File Format	tab-delimited text							
+Assay Experimental Conditions									
+Assay Experimental Conditions Term Source REF								
+Assay Experimental Conditions Term Accession								
+Quality Control Description	positive controls (human tonsil, identical assay) and negative controls (human tonsil, primary antibody replaced by non-immune sera)  									
+										
+# Protocols										
+Protocol Name	AT2 40x with resolution of 0.253 µm/pixel (see publication) 			
+Protocol Type	image acquisition and feature 			
+Protocol Type Term Source REF									
+Protocol Type Term Accession	
+Protocol Description	
+						
+										
+# Phenotypes										
+Phenotype Name	CD3 positive T- lymphocytes	CD20 positive B- lymphocytes				
+Phenotype Description	Lineage markers. Positivity determined by adaptive thresholding (no fixed score) see publication									
+Phenotype Score Type	automatic									
+Phenotype Term Source REF	CMPO									
+Phenotype Term Name	Lymphocyte-mediated immunity							
+Phenotype Term Accession	GO_0002449															
+										
+# Feature Level Data Files (give individual file details unless there is one file per well)		
+Feature Level Data File Name										
+Feature Level Data File Format										
+Feature Level Data File Description									
+Feature Level Data Column Name										
+Feature Level Data Column Description										
+										
+#  Processed Data Files 										
+Processed Data File Name										
+Processed Data File Format										
+Processed Data File Description										
+Processed Data Column Name										
+Processed Data Column Type										
+Processed Data Column Annotation Level									
+Processed Data Column Description									
+Processed Data Column Link To Assay File							
