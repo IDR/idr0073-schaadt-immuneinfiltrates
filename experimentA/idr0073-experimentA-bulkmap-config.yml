@@ -94,6 +94,30 @@ columns:
           include: yes
 
   - group:
+      namespace: openmicroscopy.org/mapr/antibody/supplementary
+      columns:
+        - name: Experimental Condition [Primary Antibody 1]
+          clientname: Antibody
+          include: yes
+          omitempty: no
+        - name: Primary Antibody Dilution 1
+          clientname: Dilution Factor
+          include: yes
+          omitempty: no
+
+  - group:
+      namespace: openmicroscopy.org/mapr/antibody/supplementary
+      columns:
+        - name: Experimental Condition [Primary Antibody 2]
+          clientname: Antibody
+          include: yes
+          omitempty: no
+        - name: Primary Antibody Dilution 2
+          clientname: Dilution Factor
+          include: yes
+          omitempty: no
+
+  - group:
       namespace: openmicroscopy.org/mapr/gene
       columns:
         - name: Comment [Gene Identifier 1]
