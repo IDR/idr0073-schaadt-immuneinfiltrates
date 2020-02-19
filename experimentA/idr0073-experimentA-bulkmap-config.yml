@@ -104,6 +104,10 @@ columns:
           clientname: Dilution Factor
           include: yes
           omitempty: no
+
+  - group:
+      namespace: openmicroscopy.org/mapr/antibody/supplementary
+      columns:
         - name: Experimental Condition [Primary Antibody 2]
           clientname: Antibody
           include: yes
