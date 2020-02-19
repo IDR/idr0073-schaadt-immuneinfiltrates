@@ -149,6 +149,13 @@ columns:
           include: yes
           omitempty: no
 
+  - group:
+      namespace: openmicroscopy.org/mapr/phenotype
+      columns:
+      - name: Phenotype
+        clientname: Phenotype
+        include: yes
+
 
 advanced:
   ignore_missing_primary_key: yes
@@ -163,3 +170,6 @@ advanced:
       keys:
         - Gene Identifier
         - Gene Symbol
+    - namespace: openmicroscopy.org/mapr/phenotype
+      keys:
+      - Phenotype
