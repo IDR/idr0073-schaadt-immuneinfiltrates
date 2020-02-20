@@ -82,7 +82,7 @@ Phenotype Name	CD3 positive T- lymphocytes	CD20 positive B- lymphocytes
 Phenotype Description	Lineage markers. Positivity determined by adaptive thresholding (no fixed score) see publication									
 Phenotype Score Type	automatic									
 Phenotype Term Source REF	CMPO									
-Phenotype Term Name	Lymphocyte-mediated immunity							
+Phenotype Term Name	lymphocyte mediated immunity							
 Phenotype Term Accession	GO_0002449															
 										
 # Feature Level Data Files (give individual file details unless there is one file per well)		
