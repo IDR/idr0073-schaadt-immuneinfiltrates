@@ -155,7 +155,13 @@ columns:
       - name: Phenotype
         clientname: Phenotype
         include: yes
-
+      - name: Phenotype Term Accession
+        clientname: Phenotype Term Accession
+        include: yes
+      - name: Phenotype Term Accession
+        clientname: Phenotype Term Accession URL
+        clientvalue: http://purl.obolibrary.org/obo/{{ value|urlencode }}
+        include: yes
 
 advanced:
   ignore_missing_primary_key: yes
@@ -173,3 +179,4 @@ advanced:
     - namespace: openmicroscopy.org/mapr/phenotype
       keys:
       - Phenotype
+
