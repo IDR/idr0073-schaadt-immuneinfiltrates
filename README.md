@@ -1,17 +1,7 @@
-# idr0073-schaadt-immuneinfiltrates
+# Graph-based description of tertiary lymphoid organs at single-cell level
 
-## Import Status
+## Authors
+Schaadt NS, Schoenmeyer R, Forestier G, Brieu N, Braubach P, Nekolla K, Meyer-Hermann M, Feuerhake F
 
-### idr-testing (if applicable)
-| Task | Duration | Checked |
-| :----: |:----:| :----:|
-| Images| 25 min | X |
-| Thumbnails | NA | NA |
-| Annotations | -- | -- |
-
-### idr-next
-| Task | Duration | Checked |
-| :----: |:----:| :----:|
-| Images| -- | -- |
-| Thumbnails | NA | NA |
-| Annotations | -- | -- |
+## Description
+Based on cell coordinates detected in the full image, a Delaunay triangulation and distance criteria were used to build neighborhood graphs. The composition of nodes and edges are used for classification, e.g. using a support vector machine. 
