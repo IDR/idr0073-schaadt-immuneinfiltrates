@@ -39,7 +39,7 @@ Study Person Roles	submitter
 # Study License and Data DOI										
 Study License	CC-BY 4.0									
 Study License URL	https://creativecommons.org/licenses/by/4.0/					
-Study Copyright	PLOS Comp Biol									
+Study Copyright	Schaadt et al.									
 Study Data Publisher	University of Dundee								
 Study Data DOI										
 										
@@ -70,7 +70,7 @@ Assay Experimental Conditions Term Accession
 Quality Control Description	positive controls (human tonsil, identical assay) and negative controls (human tonsil, primary antibody replaced by non-immune sera)  									
 										
 # Protocols										
-Protocol Name	AT2 40x with resolution of 0.253 µm/pixel (see publication) 			
+Protocol Name	AT2 40x with resolution of 0.253 Âµm/pixel (see publication) 			
 Protocol Type	image acquisition and feature 			
 Protocol Type Term Source REF									
 Protocol Type Term Accession	
