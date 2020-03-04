@@ -9,7 +9,7 @@ Study Title	Graph-based description of tertiary lymphoid organs (TLOs)  at singl
 Study Type	histology									
 Study Type Term Source REF									
 Study Type Term Accession									
-Study Description	Object-oriented image analysis and graph-based description of the spatial context of B- und T-lymphocytes were performed to reflect the degree of organization in lymphocyte accumulations and their similarity with TLOs.  This study addresses the need to detect and reproducibly classify immune cell infiltrates in histopathological sections. We propose complementing observer-dependent approaches of immune cell evaluation in microscopy images with reproducible measures for spatial composition of lymphocytic infiltrates.  	
+Study Description	Object-oriented image analysis and graph-based description of the spatial context of B- and T-lymphocytes were performed to reflect the degree of organization in lymphocyte accumulations and their similarity with TLOs.  This study addresses the need to detect and reproducibly classify immune cell infiltrates in histopathological sections. We propose complementing observer-dependent approaches of immune cell evaluation in microscopy images with reproducible measures for spatial composition of lymphocytic infiltrates.  	
 Study Key Words	immune infiltrates	tertiary lymphoid organ	lymphocyte	whole slide scanning	
 Study Organism	Homo sapiens									
 Study Organism Term Source REF	NCBITaxon								
@@ -20,11 +20,11 @@ Study BioImage Archive Accession
 Study Public Release Date	2020-03-03									
 										
 # Study Publication										
-Study PubMed ID	 									
+Study PubMed ID	32084130	 									
 Study Publication Title	Graph-based description of tertiary lymphoid organs at single-cell level	
-Study Author List	Schaadt NS, Schoenmeyer R, Forestier G, Brieu N, Braubach P, Nekolla K, Meyer-Hermann M, Feuerhake F					
+Study Author List	Schaadt NS, Schoenmeyer R, Forestier G, Brieu N, Braubach P, Nekolla K, Meyer-Hermann M, Feuerhake F		
 Study PMC ID	 							
-Study DOI	 									
+Study DOI	https://doi.org/10.1371/journal.pcbi.1007385								
 	
 									
 # Study Contacts										
@@ -32,7 +32,7 @@ Study Person Last Name	Feuerhake
 Study Person First Name	Friedrich									
 Study Person Email	feuerhake.friedrich@mh-hannover.de						
 Study Person Address	Carl-Neuberg-Str. 1, 30615 Hannover, Germany				
-Study Person ORCID	https://orcid.org/0000-0002-1234-982X 						
+Study Person ORCID	0000-0002-1234-982X 						
 Study Person Roles	submitter									
 		
 								
@@ -41,7 +41,7 @@ Study License	CC-BY 4.0
 Study License URL	https://creativecommons.org/licenses/by/4.0/					
 Study Copyright	Schaadt et al.									
 Study Data Publisher	University of Dundee								
-Study Data DOI										
+Study Data DOI									
 										
 Term Source Name	NCBITaxon	EFO	CMPO	FBbi						
 Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/						
